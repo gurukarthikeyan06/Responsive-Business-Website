@@ -25,20 +25,7 @@ The website includes multiple pages such as Home, About, Services, and Contact.
 
 ## Project Structure
 
-project/
-│
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── README.md
+project->index.html->about.html->services.html─>contact.html─>style.css─>script.js─>README.md
 
 ## How to Run the Project
 
